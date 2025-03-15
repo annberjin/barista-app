@@ -9,7 +9,11 @@
 
 /* This gets rid of the bullet points in the list */
 li {
-  list-style-type: none; 
+  list-style-type: none;
+  background-color: rgb(191, 183, 116);
+  margin-bottom: 5px;
+  border-radius: 15px;
+  background-color: #FFFDD0;
 }
 
 .container {
